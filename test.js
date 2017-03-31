@@ -1,4 +1,4 @@
-var translate = require('./google-translate-free');
+var translate = require('google-translate-noapi');
 
 translate(
   'The unanimous Declaration of the thirteen united States of America,\
