@@ -1,0 +1,15 @@
+{
+  "name": "google-translate-noapi",
+  "version": "0.0.1",
+  "author": "@bitcraftlab",
+  "license": "MIT",
+  "description": "Node.js module to use google translate without an API key.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitcraftlab/google-translate-noapi"
+  },
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {}
+}
